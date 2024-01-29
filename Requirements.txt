@@ -1,0 +1,6 @@
+numpy
+sounddevice
+soundfile 
+psychopy 
+scipy
+librosa
